@@ -1,4 +1,4 @@
-![logo](https://github.com/DhwaniG/DhwaniG/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/ShamMohite/ShamMohite/blob/main/Sham%20Mohite.png)
 
 <h1 align="center">Hi 👋, I'm Sham Mohite</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
