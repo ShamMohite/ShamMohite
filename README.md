@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/shammohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shammohite" height="30" width="40" /></a>
 <a href="https://kaggle.com/shammohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shammohite" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hello maharashtra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hello maharashtra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shammohite68" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shammohite68" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shammohite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shammohite" height="30" width="40" /></a>
 </p>
