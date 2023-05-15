@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shammohite68@gmail.com**
 
-- ⚡ Fun fact **"I love experimenting with new programming languages"**
+- ⚡ Fun fact **""**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
